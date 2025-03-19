@@ -1,2 +1,3 @@
 # OpenBreakout
-A simple "breakout" style game
+A simple "breakout" style game,
+written with Love
